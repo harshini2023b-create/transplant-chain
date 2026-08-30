@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
+build/
+
+# Coverage
+coverage/
+
+# Hardhat
+artifacts/
+cache/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/settings.json
+.idea/
