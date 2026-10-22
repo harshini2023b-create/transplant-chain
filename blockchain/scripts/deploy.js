@@ -18,7 +18,7 @@ async function main() {
     );
 
     // Use a GANACHE DEVELOPMENT ACCOUNT private key
-    const privateKey = "0x413e04334c1104dc47a03cfe163897cfb669cca65298c36bdb6c6543c2fe5ab0";
+    const privateKey = "0xe5998fd7e36005aa04c58bccbbdd3ef61179a594111820f87e5f9d0a0007e40e";
 
     const wallet = new ethers.Wallet(
         privateKey,
